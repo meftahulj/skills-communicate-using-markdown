@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] This is a fun excercise
+- [ ] This is a boring excercise
+- [x] This is the best excercise in the whole entire world
